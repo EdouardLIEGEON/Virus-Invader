@@ -1,0 +1,10 @@
+#displayZone{
+  height: 800px;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 26px 26px 26px 26px 26px 26px 26px 26px 26px 26px 26px;
+  grid-template-rows: 26px 26px 26px 26px 26px 26px 26px 26px 26px 26px;
+  grid-gap: 10px;
+  padding: 10px;
+  background-color: blue;
+}
